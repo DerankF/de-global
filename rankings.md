@@ -1,8 +1,8 @@
-# Diyi Global Lens · Rankings
+# Derank Global Lens · Rankings
 
-> 46 real products ranked by Diyi Index. Data cutoff: 2026-11. NOT a complete worldwide Top 100. No fabricated data.
+> 46 real products ranked by Derank Index. Data cutoff: 2026-11. NOT a complete worldwide Top 100. No fabricated data.
 
-| # | Product/产品 | Brand/品牌 | Category/品类 | Diyi Index |
+| # | Product/产品 | Brand/品牌 | Category/品类 | Derank Index |
 |---|---|---|---|---|
 | 1 | Claude Code | Anthropic | AI Agents | 9.8 |
 | 2 | 千问AI眼镜 | 阿里巴巴 | AI Glasses | 9.8 |
@@ -53,6 +53,6 @@
 
 ## Scoring
 
-Diyi Index = Public Score x60% + Editorial Score x40%; Editorial = Dao 25% + Fa 30% + Li 15% + Yu 15% + Shou 15%.
+Derank Index = Public Score x60% + Editorial Score x40%; Editorial = Dao 25% + Fa 30% + Li 15% + Yu 15% + Shou 15%.
 
 [Methodology](methodology.md) · [Scope & sources](scope.md)

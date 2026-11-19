@@ -1,10 +1,10 @@
-# Diyi Index Methodology (2026-11)
+# Derank Index Methodology (2026-11)
 
 > The scoring method is public, verifiable, challengeable and overturnable.
 
 ## Formula
 
-Diyi Index = Public Score x60% + Editorial Score x40%; Editorial = Dao 25% + Fa 30% + Li 15% + Yu 15% + Shou 15%.
+Derank Index = Public Score x60% + Editorial Score x40%; Editorial = Dao 25% + Fa 30% + Li 15% + Yu 15% + Shou 15%.
 
 ## Iron rules
 
@@ -14,4 +14,4 @@ Diyi Index = Public Score x60% + Editorial Score x40%; Editorial = Dao 25% + Fa 
 
 ## Data cutoff
 
-2026-11. Scores in the ranking were compiled from Diyi's 4 verified category datasets; each cites public sources. ratingCount=1 reflects a single editorial score, not a crowd sample.
+2026-11. Scores in the ranking were compiled from Derank's 4 verified category datasets; each cites public sources. ratingCount=1 reflects a single editorial score, not a crowd sample.

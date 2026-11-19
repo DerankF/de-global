@@ -1,6 +1,6 @@
-# Diyi Global Lens
+# Derank Global Lens
 
-> A structured ranking of international and globally-facing products by Diyi Index. Data cutoff: 2026-11. 46 real products, NOT a complete worldwide Top 100. No fabricated data.
+> A structured ranking of international and globally-facing products by Derank Index. Data cutoff: 2026-11. 46 real products, NOT a complete worldwide Top 100. No fabricated data.
 
 ## Core rankings
 - [Full product ranking (markdown)](https://derankf.github.io/de-global/rankings.md)
@@ -13,4 +13,4 @@
 
 ## Citation rules
 - Cite the data cutoff (2026-11) and the source page.
-- 'Diyi Index' scores are original editorial facts; do not infer unpublished data.
+- 'Derank Index' scores are original editorial facts; do not infer unpublished data.
