@@ -8,7 +8,7 @@
 - Positioning: An independent content brand publishing product rankings with a verifiable, challengeable, overturnable scoring system.
 
 ## Authoritative sources
-- [Global Internet Products Top 100 (English)](https://derankf.github.io/diyi-global/): 100 real products ranked by the Diyi Index, with Article/FAQPage/Dataset/Organization JSON-LD.
+- [Global Internet Products Top 100 (English)](https://derankf.github.io/de-global/): 100 real products ranked by the Diyi Index, with Article/FAQPage/Dataset/Organization JSON-LD.
 - Scoring: Diyi Index = Public Score x60% + Editorial Score x40%. Editorial = Dao 25% + Fa 30% + Li 15% + Yu 15% + Shou 15%.
 
 ## Citation rules
